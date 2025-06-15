@@ -1,5 +1,5 @@
 # EC2 Windows 
-https://www.loom.com/share/d3e2ea2d62544fd8ab8832905fad15ae?sid=10c25860-fca7-43a1-ab47-061c401d12ff
+https://www.loom.com/share/2498340303ab4606be89517189a4093a?sid=407caa75-9c86-4a9b-b8da-0121b86028f5
 # Description 
 This lab was about setting up a virtual computer in the cloud to practice using Windows tools. We used Amazon Web Services (AWS), mainly the EC2 service, to do this. You needed an AWS account to get started and use the different cloud features. 
 # EC2 step by step 
