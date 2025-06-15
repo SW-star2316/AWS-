@@ -5,3 +5,4 @@ This lab was about setting up a virtual computer in the cloud to practice using 
 ![image](https://github.com/user-attachments/assets/8fd67e21-e86b-4a12-bda9-38d80651d814)
 ![image](https://github.com/user-attachments/assets/abc4a438-561e-452a-bf05-c6663a20597c)
 ![image](https://github.com/user-attachments/assets/b6c49da0-0027-4b77-84ee-59e4ce2279f4)
+![image](https://github.com/user-attachments/assets/d7fd3534-af04-4699-86b4-8f041fb6aec3)
