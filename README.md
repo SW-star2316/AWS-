@@ -1,7 +1,15 @@
 # AWS & EC2 Virtual Machine Written Description 
 * First log into your AWS
-* Then click on lauch Instnace
-* 
+* Then click on lauch an Instnace
+* Create name as window
+* click on Windows as the machine image
+* Then slect the insstance type t2.xLagre
+* Create a keypair
+* After click on lauch instace
+* Once the instace is approve go to seecurity group to allow RDP
+* Dowload th instace and wait for the instance to be ready
+* Once you instance is us you will Get password through your keypair
+* After retrieving the password you will next Connect to your RDP 
 
 # EC2 Windows 
 https://www.loom.com/share/2498340303ab4606be89517189a4093a?sid=407caa75-9c86-4a9b-b8da-0121b86028f5
