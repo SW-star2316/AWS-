@@ -7,7 +7,7 @@
 * Create a keypair
 * After click on lauch instace
 * Once the instace is approve go to seecurity group to allow RDP
-* Dowload th instace and wait for the instance to be ready
+* Dowload th instance and wait for the instance to be ready
 * Once you instance is us you will Get password through your keypair
 * After retrieving the password you will next Connect to your RDP 
 
