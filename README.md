@@ -1,3 +1,8 @@
+# AWS & EC2 Virtual Machine Written Description 
+* First log into your AWS
+* Then click on lauch Instnace
+* 
+
 # EC2 Windows 
 https://www.loom.com/share/2498340303ab4606be89517189a4093a?sid=407caa75-9c86-4a9b-b8da-0121b86028f5
 # Description 
