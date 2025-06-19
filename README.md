@@ -1,15 +1,28 @@
 # AWS & EC2 Virtual Machine Written Description 
-* First log into your AWS
-* Then click on lauch an Instnace
-* Create name as window
-* click on Windows as the machine image
-* Then slect the insstance type t2.xLagre
-* Create a keypair
-* After click on lauch instace
-* Once the instace is approve go to seecurity group to allow RDP
-* Dowload th instance and wait for the instance to be ready
-* Once you instance is us you will Get password through your keypair
-* After retrieving the password you will next Connect to your RDP 
+* Log in to your AWS Management Console.
+Begin by accessing the AWS portal using your credentials.
+* Launch a New Instance.
+Navigate to the EC2 Dashboard and select "Launch an Instance."
+* Name Your Instance.
+Assign a recognizable name to your instance (e.g., “Windows”).
+* Select an Amazon Machine Image (AMI).
+Choose Microsoft Windows as your operating system.
+* Choose an Instance Type.
+Select t2.xlarge as the instance type to allocate sufficient resources.
+* Create a Key Pair.
+Generate a new key pair, or use an existing one, to securely access the instance. Be sure to download and store the .pem file securely.
+* Launch the Instance.
+Review your configuration and click "Launch Instance" to initiate deployment.
+* Configure Security Group Settings.
+Once the instance is launching, modify the Security Group to allow RDP (Remote Desktop Protocol) by opening port 3389.
+* Wait for the Instance to Initialize.
+Monitor the instance status until it shows as “Running” and “Status Checks: 2/2 passed.”
+* Retrieve the Administrator Password.
+Once the instance is ready, select the instance and click "Get Windows Password". You will use your previously created key pair to decrypt the password.
+* Connect via Remote Desktop (RDP).
+Use the decrypted password along with the public IPv4 address of the instance to connect through Remote Desktop Connection on your local machine.
+
+
 
 # EC2 Windows 
 https://www.loom.com/share/2498340303ab4606be89517189a4093a?sid=407caa75-9c86-4a9b-b8da-0121b86028f5
